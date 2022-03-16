@@ -20,6 +20,9 @@ UMS:: <a href="https://user-management-system-v2.vercel.app/register">User Manag
 
 <div>
 URL-SHORTNER:: <a href="https://url-shortner-149.herokuapp.com/">URL-SHORTNER</a>
+</div>
 
+<div>
+Notify (Web Push-Notification App) :: <a href="https://push-notifications-149.herokuapp.com/">Notify</a>
 </div>
 
