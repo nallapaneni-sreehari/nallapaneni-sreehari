@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sreehari Nallapaneni</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-
+<!-- 
 <style>
   img:hover {
     border-color: #f00;
     transform: scale(1.3);
   }
-</style>
+</style> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
