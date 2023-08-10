@@ -42,5 +42,3 @@
   <b>Thank you for visiting my profile!</b> 🙌<br>
   <i>Keep coding, keep creating, and never stop learning.</i>
 </p>
-
-### Go To Top
