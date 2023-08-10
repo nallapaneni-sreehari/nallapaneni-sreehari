@@ -6,6 +6,8 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40">](https://www.hackerrank.com/r151149?hr_r=1)
 [<img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" height="30" width="40">](https://www.linkedin.com/in/sreehari-nallapaneni-0b1809161/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40">](https://www.instagram.com/sreehari_nallapaneni/)
+[<img src="https://camo.githubusercontent.com/19865f7d347b6b06b2c705902ba4ded7a1941e9dd164b646fce17fe92b5559d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6170706c652d6d61696c2e706e67" alt="sreeehari.nallapaneni@gmail.com" height="35" width="50">](mailto:sreeehari.nallapaneni@gmail.com)
+
 
 ### Languages and Tools
 | Front End | Back End | Databases | Deployment | Other Tools |
