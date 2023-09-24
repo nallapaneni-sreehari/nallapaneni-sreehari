@@ -38,7 +38,7 @@
 
 #### Notify (Web Push-Notification App)
 - 🚀 [Notify](https://push-notifications-149.herokuapp.com/)
-- 📝 Web console to send the customized notification to the registered/subscribed devices (browsers).
+- 📝 Web console to send the customized push notification to the registered/subscribed devices (browsers).
 
 
 <br><br>
