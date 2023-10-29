@@ -35,11 +35,11 @@
 - 📝 User Management System built using Angular and .NET Framework to create, list and manage the users.
 
 #### URL-SHORTNER
-- 🚀 [URL-SHORTNER](https://url-shortner-149.herokuapp.com/)
+- 🚀 [URL-SHORTNER](https://url-shortner-steel-omega.vercel.app/)
 - 📝 Shortens your lengthy URLs
 
 #### Notify (Web Push-Notification App)
-- 🚀 [Notify](https://push-notifications-149.herokuapp.com/)
+- 🚀 [Notify](https://push-notifications-iota.vercel.app/)
 - 📝 Web console to send the customized push notification to the registered/subscribed devices (browsers).
 
 
